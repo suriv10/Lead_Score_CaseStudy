@@ -1,1 +1,1 @@
-# https-github.com-suri1007-Lead_Score_CaseStudy
+Lead_Score_CaseStudy
